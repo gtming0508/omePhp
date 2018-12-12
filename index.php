@@ -8,8 +8,13 @@
 </head>
 <body>
   <h5>4564</h5>
-  <?php
-   echo locale_get_all_variants
-  ?>
+<?php
+function myTest($x)
+{
+  echo $x;
+}
+parint '456';
+myTest(5);
+?>
 </body>
 </html>
