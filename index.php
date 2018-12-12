@@ -9,7 +9,7 @@
 <body>
   <h5>4564</h5>
   <?php
-    locale_get_all_variants
+   echo locale_get_all_variants
   ?>
 </body>
 </html>
